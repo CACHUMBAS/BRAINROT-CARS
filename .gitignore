@@ -1,0 +1,16 @@
+# Project place file
+/BRAINROT CARS.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+# Ignorar el diccionario gigante de la IA
+.roblox-api.json
+
+# Ignorar archivos temporales de Rojo o editores
+.rojo/
+.luaurc
+.DS_Store
+*.lock
